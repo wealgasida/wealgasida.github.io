@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wealgasida.github.io/sitemap.html
+Sitemap: https://wealgasida.github.io/app/sitemap.html
+Sitemap: https://wealgasida.github.io/assets/sitemap.html
+Sitemap: https://wealgasida.github.io/css/sitemap.html
+Sitemap: https://wealgasida.github.io/includes/sitemap.html
+Sitemap: https://wealgasida.github.io/item/sitemap.html
+Sitemap: https://wealgasida.github.io/src/sitemap.html
